@@ -1,6 +1,6 @@
 {
-    "name": "nesk/puphpeteer",
-    "description": "A Puppeteer bridge for PHP, supporting the entire API.",
+    "name": "qi/puphpeteer",
+    "description": "A Puppeteer bridge for PHP, supporting the entire API. puppeteer version number 5.4.1",
     "keywords": [
         "php",
         "puppeteer",
