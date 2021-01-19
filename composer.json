@@ -1,5 +1,5 @@
 {
-    "name": "qi/puphpeteer",
+    "name": "laikunqi/puphpeteer",
     "description": "A Puppeteer bridge for PHP, supporting the entire API. puppeteer version number 5.4.1",
     "keywords": [
         "php",
